@@ -78,7 +78,7 @@ Me chamo Igor Freitas, tenho 19 anos e sou do Rio de Janeiro. Atualmente, estou 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="50" 
+      height="80" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=igormafreitas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4" 
   />
 
